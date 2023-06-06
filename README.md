@@ -2,7 +2,7 @@
 
 
 
-[Pic](Delph.png)
+[Pic]()
 
 ## Projects
 
