@@ -2,7 +2,7 @@
 
 
 
-![Thumbnail of Architect](Delph.png)
+[Pic](Delph.png)
 
 ## Projects
 
