@@ -1,23 +1,6 @@
-# Site settings
-title: My Jekyll Site
-description: A simple Jekyll site
-theme: minima
-permalink: /:title/
 
-# Build settings
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-
-# Exclude files/folders from the build process
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor
-
-# Markdown options
-markdown: kramdown
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
+title: Slate theme
+description: Slate is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-slate
