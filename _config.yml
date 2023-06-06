@@ -1,2 +1,10 @@
+<<<<<<< HEAD
 remote_theme: pages-themes/architect@v0.2.0
 show_downloads: true
+=======
+title: Architect theme
+description: Architect is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-architect
+>>>>>>> a8d113c (change theme)
