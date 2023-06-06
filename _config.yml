@@ -3,4 +3,6 @@ title: DelphCL
 logo: /assets/delph.jpg
 description: text below image
 show_downloads: true
-theme: jekyll-theme-minimal mistakes
+# theme                  : "minimal-mistakes-jekyll"
+# remote_theme           : "mmistakes/minimal-mistakes"
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
