@@ -30,7 +30,7 @@ twitter_username: n/a
 github_username:  DelphCL
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: jekyll-theme-millennial
 plugins:
   - jekyll-feed
 
