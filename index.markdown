@@ -4,3 +4,19 @@
 
 layout: home
 ---
+
+
+# DelphCL
+
+![Profile Picture](path/to/profile-picture.jpg)
+
+## About Me
+
+Global Talent Consultant 
+currently training toward a Product Owner certification 
+
+## Contact Information
+
+- Email: your-email@example.com
+- GitHub: [DelphCL](https://github.com/DelphCL)
+
