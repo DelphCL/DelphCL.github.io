@@ -20,4 +20,4 @@ currently training toward a Product Owner certification
 - Email: your-email@example.com
 - GitHub: [DelphCL](https://github.com/DelphCL)
 
-![alt text](/Users/delphinelheureux/Documents/Coding/GitHub/GitHubPages/DelphCL.github.io/docs/assets/photo-arg.png)
+![alt text](/DelphCL.github.io/docs/assets/photo-arg.png)
